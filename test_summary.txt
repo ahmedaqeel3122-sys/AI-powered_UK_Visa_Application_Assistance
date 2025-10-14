@@ -1,0 +1,8 @@
+UK VISA ASSISTANT PERFORMANCE TEST SUMMARY
+==================================================
+Test Date: 2025-08-16 13:48:41
+Total Queries Tested: 90
+Overall Average Response Time: 0.7605s
+0.8s Claim Status: VERIFIED
+Accuracy Rate: 95.0%
+95% Accuracy Claim Status: VERIFIED

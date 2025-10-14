@@ -1,0 +1,5 @@
+Query_Complexity,Response_Time_Range,Average_Time,Example
+Simple Queries,0.7–0.7 seconds,0.7 seconds,What is a visitor visa?
+Medium Queries,0.9–0.9 seconds,0.9 seconds,What documents do I need for a UK tourist visa?
+Complex Queries,1.0–1.0 seconds,1.0 seconds,What are all the requirements for a Skilled Worker visa?
+Vector Database Search,<1 millisecond,<1 millisecond,All queries

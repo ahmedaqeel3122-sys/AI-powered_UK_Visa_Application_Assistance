@@ -1,0 +1,10 @@
+Query,Type,Avg_Time,Min_Time,Max_Time,Successful_Requests,Sub_Second_Rate,Sub_0.8s_Rate
+What is a visitor visa?,simple,0.7334,0.7232,0.7455,10,100.0%,100.0%
+What is a student visa?,simple,0.7334,0.7203,0.7463,10,100.0%,100.0%
+What is a work visa?,simple,0.7358,0.7237,0.7444,10,100.0%,100.0%
+What documents do I need for a UK tourist visa?,medium,0.7588,0.7522,0.7635,10,100.0%,100.0%
+How much does a student visa cost?,medium,0.7598,0.7534,0.7698,10,100.0%,100.0%
+Can I work on a tourist visa?,medium,0.7589,0.7513,0.7691,10,100.0%,100.0%
+What are all the requirements for a Skilled Worker visa?,complex,0.7868,0.7817,0.7966,10,100.0%,100.0%
+"I want to study in the UK, what do I need?",complex,0.7885,0.7845,0.7945,10,100.0%,100.0%
+What documents do I need for a spouse visa?,complex,0.7889,0.7776,0.7975,10,100.0%,100.0%

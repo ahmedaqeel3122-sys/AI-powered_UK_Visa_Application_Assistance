@@ -1,0 +1,529 @@
+2025-08-15 10:00:17,720 - INFO - Loading faiss with AVX2 support.
+2025-08-15 10:00:18,484 - INFO - Successfully loaded faiss with AVX2 support.
+2025-08-15 10:00:26,772 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://192.168.1.8:5000
+2025-08-15 10:00:26,775 - INFO - [33mPress CTRL+C to quit[0m
+2025-08-15 10:00:26,782 - INFO -  * Restarting with stat
+2025-08-15 10:00:52,878 - INFO - Loading faiss with AVX2 support.
+2025-08-15 10:00:52,939 - INFO - Successfully loaded faiss with AVX2 support.
+2025-08-15 10:01:04,483 - WARNING -  * Debugger is active!
+2025-08-15 10:01:04,494 - INFO -  * Debugger PIN: 885-231-799
+2025-08-15 10:01:33,025 - INFO - 127.0.0.1 - - [15/Aug/2025 10:01:33] "GET / HTTP/1.1" 200 -
+2025-08-15 10:01:33,191 - INFO - 127.0.0.1 - - [15/Aug/2025 10:01:33] "GET /static/css/style.css HTTP/1.1" 200 -
+2025-08-15 10:01:33,191 - INFO - 127.0.0.1 - - [15/Aug/2025 10:01:33] "GET /static/js/script.js HTTP/1.1" 200 -
+2025-08-15 10:01:43,315 - INFO - 192.168.1.8 - - [15/Aug/2025 10:01:43] "GET / HTTP/1.1" 200 -
+2025-08-15 10:01:43,404 - INFO - 192.168.1.8 - - [15/Aug/2025 10:01:43] "GET /static/css/style.css HTTP/1.1" 200 -
+2025-08-15 10:01:43,405 - INFO - 192.168.1.8 - - [15/Aug/2025 10:01:43] "GET /static/js/script.js HTTP/1.1" 200 -
+2025-08-15 10:01:48,795 - INFO - 192.168.1.8 - - [15/Aug/2025 10:01:48] "GET / HTTP/1.1" 200 -
+2025-08-15 10:01:48,948 - INFO - 192.168.1.8 - - [15/Aug/2025 10:01:48] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+2025-08-15 10:01:48,951 - INFO - 192.168.1.8 - - [15/Aug/2025 10:01:48] "[36mGET /static/js/script.js HTTP/1.1[0m" 304 -
+2025-08-15 10:01:54,683 - INFO - 127.0.0.1 - - [15/Aug/2025 10:01:54] "GET /health HTTP/1.1" 200 -
+2025-08-15 10:01:54,767 - INFO - 127.0.0.1 - - [15/Aug/2025 10:01:54] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+2025-08-15 10:02:01,856 - INFO - 127.0.0.1 - - [15/Aug/2025 10:02:01] "GET /system_stats HTTP/1.1" 200 -
+2025-08-15 10:02:01,946 - INFO - 127.0.0.1 - - [15/Aug/2025 10:02:01] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+2025-08-15 10:03:27,142 - INFO - 127.0.0.1 - - [15/Aug/2025 10:03:27] "GET /system_stats HTTP/1.1" 200 -
+2025-08-15 10:03:27,188 - INFO - 127.0.0.1 - - [15/Aug/2025 10:03:27] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+2025-08-15 10:15:35,659 - INFO - 127.0.0.1 - - [15/Aug/2025 10:15:35] "GET /health HTTP/1.1" 200 -
+2025-08-15 10:15:35,699 - INFO - 127.0.0.1 - - [15/Aug/2025 10:15:35] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+2025-08-15 12:14:50,352 - INFO -  * Detected change in 'C:\\Users\\DeLL\\Downloads\\AB\\UK Visa Applications and Services Chat Assistance\\app.py', reloading
+2025-08-15 12:14:52,749 - INFO -  * Restarting with stat
+2025-08-15 12:15:01,023 - INFO - Loading faiss with AVX2 support.
+2025-08-15 12:15:01,059 - INFO - Successfully loaded faiss with AVX2 support.
+2025-08-15 12:15:08,661 - WARNING -  * Debugger is active!
+2025-08-15 12:15:08,667 - INFO -  * Debugger PIN: 885-231-799
+2025-08-16 09:20:42,014 - INFO - Loading faiss with AVX2 support.
+2025-08-16 09:20:42,065 - INFO - Successfully loaded faiss with AVX2 support.
+2025-08-16 09:20:47,129 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://192.168.1.8:5000
+2025-08-16 09:20:47,129 - INFO - [33mPress CTRL+C to quit[0m
+2025-08-16 09:20:47,132 - INFO -  * Restarting with stat
+2025-08-16 09:20:57,820 - INFO - Loading faiss with AVX2 support.
+2025-08-16 09:20:57,854 - INFO - Successfully loaded faiss with AVX2 support.
+2025-08-16 09:21:03,221 - WARNING -  * Debugger is active!
+2025-08-16 09:21:03,229 - INFO -  * Debugger PIN: 885-231-799
+2025-08-16 09:21:03,367 - INFO - 192.168.1.8 - - [16/Aug/2025 09:21:03] "GET / HTTP/1.1" 200 -
+2025-08-16 09:21:03,370 - INFO - 192.168.1.8 - - [16/Aug/2025 09:21:03] "GET / HTTP/1.1" 200 -
+2025-08-16 09:21:03,457 - INFO - 192.168.1.8 - - [16/Aug/2025 09:21:03] "GET /static/css/style.css HTTP/1.1" 200 -
+2025-08-16 09:21:03,460 - INFO - 192.168.1.8 - - [16/Aug/2025 09:21:03] "[36mGET /static/js/script.js HTTP/1.1[0m" 304 -
+2025-08-16 09:24:02,011 - INFO -  * Detected change in 'C:\\Users\\DeLL\\Downloads\\AB\\UK Visa Applications and Services Chat Assistance\\test.py', reloading
+2025-08-16 09:24:04,410 - INFO -  * Restarting with stat
+2025-08-16 09:24:12,883 - INFO - Loading faiss with AVX2 support.
+2025-08-16 09:24:12,935 - INFO - Successfully loaded faiss with AVX2 support.
+2025-08-16 09:24:18,055 - WARNING -  * Debugger is active!
+2025-08-16 09:24:18,059 - INFO -  * Debugger PIN: 885-231-799
+2025-08-16 09:24:19,383 - INFO -  * Detected change in 'C:\\Users\\DeLL\\Downloads\\AB\\UK Visa Applications and Services Chat Assistance\\test.py', reloading
+2025-08-16 09:24:21,724 - INFO -  * Restarting with stat
+2025-08-16 09:24:33,986 - INFO - Loading faiss with AVX2 support.
+2025-08-16 09:24:34,017 - INFO - Successfully loaded faiss with AVX2 support.
+2025-08-16 09:24:39,324 - WARNING -  * Debugger is active!
+2025-08-16 09:24:39,328 - INFO -  * Debugger PIN: 885-231-799
+2025-08-16 09:24:59,798 - INFO -  * Detected change in 'C:\\Users\\DeLL\\Downloads\\AB\\UK Visa Applications and Services Chat Assistance\\test.py', reloading
+2025-08-16 09:25:02,183 - INFO -  * Restarting with stat
+2025-08-16 09:25:13,226 - INFO - Loading faiss with AVX2 support.
+2025-08-16 09:25:13,261 - INFO - Successfully loaded faiss with AVX2 support.
+2025-08-16 09:25:19,066 - WARNING -  * Debugger is active!
+2025-08-16 09:25:19,069 - INFO -  * Debugger PIN: 885-231-799
+2025-08-16 09:25:30,446 - INFO -  * Detected change in 'C:\\Users\\DeLL\\Downloads\\AB\\UK Visa Applications and Services Chat Assistance\\test.py', reloading
+2025-08-16 09:25:32,757 - INFO -  * Restarting with stat
+2025-08-16 09:25:43,092 - INFO - Loading faiss with AVX2 support.
+2025-08-16 09:25:43,117 - INFO - Successfully loaded faiss with AVX2 support.
+2025-08-16 09:25:47,940 - WARNING -  * Debugger is active!
+2025-08-16 09:25:47,944 - INFO -  * Debugger PIN: 885-231-799
+2025-08-16 09:25:59,621 - INFO -  * Detected change in 'C:\\Users\\DeLL\\Downloads\\AB\\UK Visa Applications and Services Chat Assistance\\test.py', reloading
+2025-08-16 09:26:02,008 - INFO -  * Restarting with stat
+2025-08-16 09:26:10,768 - INFO - Loading faiss with AVX2 support.
+2025-08-16 09:26:10,798 - INFO - Successfully loaded faiss with AVX2 support.
+2025-08-16 09:26:16,519 - WARNING -  * Debugger is active!
+2025-08-16 09:26:16,524 - INFO -  * Debugger PIN: 885-231-799
+2025-08-16 09:26:23,579 - INFO -  * Detected change in 'C:\\Users\\DeLL\\Downloads\\AB\\UK Visa Applications and Services Chat Assistance\\test.py', reloading
+2025-08-16 09:26:26,028 - INFO -  * Restarting with stat
+2025-08-16 09:26:35,217 - INFO - Loading faiss with AVX2 support.
+2025-08-16 09:26:35,246 - INFO - Successfully loaded faiss with AVX2 support.
+2025-08-16 09:26:40,256 - WARNING -  * Debugger is active!
+2025-08-16 09:26:40,269 - INFO -  * Debugger PIN: 885-231-799
+2025-08-16 09:26:46,196 - INFO -  * Detected change in 'C:\\Users\\DeLL\\Downloads\\AB\\UK Visa Applications and Services Chat Assistance\\test.py', reloading
+2025-08-16 09:26:48,659 - INFO -  * Restarting with stat
+2025-08-16 09:26:59,084 - INFO - Loading faiss with AVX2 support.
+2025-08-16 09:26:59,127 - INFO - Successfully loaded faiss with AVX2 support.
+2025-08-16 09:27:04,501 - WARNING -  * Debugger is active!
+2025-08-16 09:27:04,505 - INFO -  * Debugger PIN: 885-231-799
+2025-08-16 10:42:18,271 - INFO -  * Detected change in 'C:\\Users\\DeLL\\Downloads\\AB\\UK Visa Applications and Services Chat Assistance\\app.py', reloading
+2025-08-16 10:42:20,653 - INFO -  * Restarting with stat
+2025-08-16 10:42:29,817 - INFO - Loading faiss with AVX2 support.
+2025-08-16 10:42:30,080 - INFO - Successfully loaded faiss with AVX2 support.
+2025-08-16 10:42:37,825 - WARNING -  * Debugger is active!
+2025-08-16 10:42:37,830 - INFO -  * Debugger PIN: 885-231-799
+2025-08-16 11:04:23,579 - INFO - 127.0.0.1 - - [16/Aug/2025 11:04:23] "GET /system_stats HTTP/1.1" 200 -
+2025-08-16 11:04:23,671 - INFO - 127.0.0.1 - - [16/Aug/2025 11:04:23] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+2025-08-16 11:04:25,334 - INFO - 127.0.0.1 - - [16/Aug/2025 11:04:25] "GET /health HTTP/1.1" 200 -
+2025-08-16 11:04:25,370 - INFO - 127.0.0.1 - - [16/Aug/2025 11:04:25] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+2025-08-16 11:05:41,363 - INFO - 127.0.0.1 - - [16/Aug/2025 11:05:41] "GET /health HTTP/1.1" 200 -
+2025-08-16 11:05:41,391 - INFO - 127.0.0.1 - - [16/Aug/2025 11:05:41] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+2025-08-16 11:53:47,213 - INFO -  * Detected change in 'C:\\Users\\DeLL\\Downloads\\AB\\UK Visa Applications and Services Chat Assistance\\test.py', reloading
+2025-08-16 11:53:49,668 - INFO -  * Restarting with stat
+2025-08-16 11:53:59,007 - INFO - Loading faiss with AVX2 support.
+2025-08-16 11:53:59,035 - INFO - Successfully loaded faiss with AVX2 support.
+2025-08-16 11:54:07,016 - WARNING -  * Debugger is active!
+2025-08-16 11:54:07,025 - INFO -  * Debugger PIN: 885-231-799
+2025-08-16 11:54:12,679 - INFO - 127.0.0.1 - - [16/Aug/2025 11:54:12] "POST /chat HTTP/1.1" 200 -
+2025-08-16 11:54:19,374 - INFO - 127.0.0.1 - - [16/Aug/2025 11:54:19] "POST /chat HTTP/1.1" 200 -
+2025-08-16 11:54:25,998 - INFO - 127.0.0.1 - - [16/Aug/2025 11:54:25] "POST /chat HTTP/1.1" 200 -
+2025-08-16 11:54:32,861 - INFO - 127.0.0.1 - - [16/Aug/2025 11:54:32] "POST /chat HTTP/1.1" 200 -
+2025-08-16 11:54:40,304 - INFO - 127.0.0.1 - - [16/Aug/2025 11:54:40] "POST /chat HTTP/1.1" 200 -
+2025-08-16 11:54:47,581 - INFO - 127.0.0.1 - - [16/Aug/2025 11:54:47] "POST /chat HTTP/1.1" 200 -
+2025-08-16 11:54:54,992 - INFO - 127.0.0.1 - - [16/Aug/2025 11:54:54] "POST /chat HTTP/1.1" 200 -
+2025-08-16 11:55:02,312 - INFO - 127.0.0.1 - - [16/Aug/2025 11:55:02] "POST /chat HTTP/1.1" 200 -
+2025-08-16 11:55:09,665 - INFO - 127.0.0.1 - - [16/Aug/2025 11:55:09] "POST /chat HTTP/1.1" 200 -
+2025-08-16 11:55:16,413 - INFO - 127.0.0.1 - - [16/Aug/2025 11:55:16] "POST /chat HTTP/1.1" 200 -
+2025-08-16 11:55:23,050 - INFO - 127.0.0.1 - - [16/Aug/2025 11:55:23] "POST /chat HTTP/1.1" 200 -
+2025-08-16 11:55:29,902 - INFO - 127.0.0.1 - - [16/Aug/2025 11:55:29] "POST /chat HTTP/1.1" 200 -
+2025-08-16 11:55:37,368 - INFO - 127.0.0.1 - - [16/Aug/2025 11:55:37] "POST /chat HTTP/1.1" 200 -
+2025-08-16 11:55:44,731 - INFO - 127.0.0.1 - - [16/Aug/2025 11:55:44] "POST /chat HTTP/1.1" 200 -
+2025-08-16 11:55:52,089 - INFO - 127.0.0.1 - - [16/Aug/2025 11:55:52] "POST /chat HTTP/1.1" 200 -
+2025-08-16 11:55:59,604 - INFO - 127.0.0.1 - - [16/Aug/2025 11:55:59] "POST /chat HTTP/1.1" 200 -
+2025-08-16 11:56:06,870 - INFO - 127.0.0.1 - - [16/Aug/2025 11:56:06] "POST /chat HTTP/1.1" 200 -
+2025-08-16 11:56:14,015 - INFO - 127.0.0.1 - - [16/Aug/2025 11:56:14] "POST /chat HTTP/1.1" 200 -
+2025-08-16 11:56:21,879 - INFO - 127.0.0.1 - - [16/Aug/2025 11:56:21] "POST /chat HTTP/1.1" 200 -
+2025-08-16 11:56:28,404 - INFO - 127.0.0.1 - - [16/Aug/2025 11:56:28] "POST /chat HTTP/1.1" 200 -
+2025-08-16 11:56:37,452 - INFO - 127.0.0.1 - - [16/Aug/2025 11:56:37] "POST /chat HTTP/1.1" 200 -
+2025-08-16 11:56:44,557 - INFO - 127.0.0.1 - - [16/Aug/2025 11:56:44] "POST /chat HTTP/1.1" 200 -
+2025-08-16 11:56:51,498 - INFO - 127.0.0.1 - - [16/Aug/2025 11:56:51] "POST /chat HTTP/1.1" 200 -
+2025-08-16 11:56:59,597 - INFO - 127.0.0.1 - - [16/Aug/2025 11:56:59] "POST /chat HTTP/1.1" 200 -
+2025-08-16 11:57:06,777 - INFO - 127.0.0.1 - - [16/Aug/2025 11:57:06] "POST /chat HTTP/1.1" 200 -
+2025-08-16 11:57:13,488 - INFO - 127.0.0.1 - - [16/Aug/2025 11:57:13] "POST /chat HTTP/1.1" 200 -
+2025-08-16 11:57:20,145 - INFO - 127.0.0.1 - - [16/Aug/2025 11:57:20] "POST /chat HTTP/1.1" 200 -
+2025-08-16 11:57:26,688 - INFO - 127.0.0.1 - - [16/Aug/2025 11:57:26] "POST /chat HTTP/1.1" 200 -
+2025-08-16 11:57:33,296 - INFO - 127.0.0.1 - - [16/Aug/2025 11:57:33] "POST /chat HTTP/1.1" 200 -
+2025-08-16 11:57:40,459 - INFO - 127.0.0.1 - - [16/Aug/2025 11:57:40] "POST /chat HTTP/1.1" 200 -
+2025-08-16 12:14:58,339 - INFO -  * Detected change in 'C:\\Users\\DeLL\\Downloads\\AB\\UK Visa Applications and Services Chat Assistance\\test.py', reloading
+2025-08-16 12:15:00,690 - INFO -  * Restarting with stat
+2025-08-16 12:15:09,826 - INFO - Loading faiss with AVX2 support.
+2025-08-16 12:15:09,855 - INFO - Successfully loaded faiss with AVX2 support.
+2025-08-16 12:15:15,140 - WARNING -  * Debugger is active!
+2025-08-16 12:15:15,145 - INFO -  * Debugger PIN: 885-231-799
+2025-08-16 12:54:53,430 - INFO -  * Detected change in 'C:\\Users\\DeLL\\Downloads\\AB\\UK Visa Applications and Services Chat Assistance\\test.py', reloading
+2025-08-16 12:54:55,770 - INFO -  * Restarting with stat
+2025-08-16 12:55:05,370 - INFO - Loading faiss with AVX2 support.
+2025-08-16 12:55:05,423 - INFO - Successfully loaded faiss with AVX2 support.
+2025-08-16 12:55:12,399 - WARNING -  * Debugger is active!
+2025-08-16 12:55:12,407 - INFO -  * Debugger PIN: 885-231-799
+2025-08-16 12:57:30,454 - INFO -  * Detected change in 'C:\\Users\\DeLL\\Downloads\\AB\\UK Visa Applications and Services Chat Assistance\\test.py', reloading
+2025-08-16 12:57:32,781 - INFO -  * Restarting with stat
+2025-08-16 12:57:40,913 - INFO - Loading faiss with AVX2 support.
+2025-08-16 12:57:40,949 - INFO - Successfully loaded faiss with AVX2 support.
+2025-08-16 12:57:45,537 - WARNING -  * Debugger is active!
+2025-08-16 12:57:45,543 - INFO -  * Debugger PIN: 885-231-799
+2025-08-16 13:00:19,394 - INFO -  * Detected change in 'C:\\Users\\DeLL\\Downloads\\AB\\UK Visa Applications and Services Chat Assistance\\test.py', reloading
+2025-08-16 13:00:21,720 - INFO -  * Restarting with stat
+2025-08-16 13:00:32,780 - INFO - Loading faiss with AVX2 support.
+2025-08-16 13:00:32,811 - INFO - Successfully loaded faiss with AVX2 support.
+2025-08-16 13:00:40,568 - WARNING -  * Debugger is active!
+2025-08-16 13:00:40,572 - INFO -  * Debugger PIN: 885-231-799
+2025-08-16 13:27:49,922 - INFO -  * Detected change in 'C:\\Users\\DeLL\\Downloads\\AB\\UK Visa Applications and Services Chat Assistance\\test.py', reloading
+2025-08-16 13:27:52,278 - INFO -  * Restarting with stat
+2025-08-16 13:28:02,327 - INFO - Loading faiss with AVX2 support.
+2025-08-16 13:28:02,352 - INFO - Successfully loaded faiss with AVX2 support.
+2025-08-16 13:28:10,218 - WARNING -  * Debugger is active!
+2025-08-16 13:28:10,222 - INFO -  * Debugger PIN: 885-231-799
+2025-08-16 13:28:11,539 - INFO -  * Detected change in 'C:\\Users\\DeLL\\Downloads\\AB\\UK Visa Applications and Services Chat Assistance\\test.py', reloading
+2025-08-16 13:28:13,864 - INFO -  * Restarting with stat
+2025-08-16 13:28:23,630 - INFO - Loading faiss with AVX2 support.
+2025-08-16 13:28:23,656 - INFO - Successfully loaded faiss with AVX2 support.
+2025-08-16 13:28:31,186 - WARNING -  * Debugger is active!
+2025-08-16 13:28:31,192 - INFO -  * Debugger PIN: 885-231-799
+2025-08-16 13:47:12,866 - INFO -  * Detected change in 'C:\\Users\\DeLL\\Downloads\\AB\\UK Visa Applications and Services Chat Assistance\\test.py', reloading
+2025-08-16 13:47:15,221 - INFO -  * Restarting with stat
+2025-08-16 13:47:24,512 - INFO - Loading faiss with AVX2 support.
+2025-08-16 13:47:24,539 - INFO - Successfully loaded faiss with AVX2 support.
+2025-08-16 13:47:29,136 - WARNING -  * Debugger is active!
+2025-08-16 13:47:29,139 - INFO -  * Debugger PIN: 885-231-799
+2025-08-16 13:47:48,315 - INFO -  * Detected change in 'C:\\Users\\DeLL\\Downloads\\AB\\UK Visa Applications and Services Chat Assistance\\test.py', reloading
+2025-08-16 13:47:50,600 - INFO -  * Restarting with stat
+2025-08-16 13:47:59,365 - INFO - Loading faiss with AVX2 support.
+2025-08-16 13:47:59,398 - INFO - Successfully loaded faiss with AVX2 support.
+2025-08-16 13:48:04,934 - WARNING -  * Debugger is active!
+2025-08-16 13:48:04,939 - INFO -  * Debugger PIN: 885-231-799
+2025-08-16 13:48:25,296 - INFO -  * Detected change in 'C:\\Users\\DeLL\\Downloads\\AB\\UK Visa Applications and Services Chat Assistance\\test.py', reloading
+2025-08-16 13:48:27,592 - INFO -  * Restarting with stat
+2025-08-16 13:48:36,327 - INFO - Loading faiss with AVX2 support.
+2025-08-16 13:48:36,357 - INFO - Successfully loaded faiss with AVX2 support.
+2025-08-16 13:48:41,597 - WARNING -  * Debugger is active!
+2025-08-16 13:48:41,603 - INFO -  * Debugger PIN: 885-231-799
+2025-08-16 13:56:42,228 - INFO - 127.0.0.1 - - [16/Aug/2025 13:56:42] "GET /system_stats HTTP/1.1" 200 -
+2025-08-16 13:56:42,276 - INFO - 127.0.0.1 - - [16/Aug/2025 13:56:42] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+2025-08-16 19:16:34,786 - INFO - 127.0.0.1 - - [16/Aug/2025 19:16:34] "GET / HTTP/1.1" 200 -
+2025-08-16 19:16:34,866 - INFO - 127.0.0.1 - - [16/Aug/2025 19:16:34] "GET /static/css/style.css HTTP/1.1" 200 -
+2025-08-16 19:16:34,902 - INFO - 127.0.0.1 - - [16/Aug/2025 19:16:34] "GET /static/js/script.js HTTP/1.1" 200 -
+2025-08-16 20:37:30,877 - INFO - 127.0.0.1 - - [16/Aug/2025 20:37:30] "GET /health HTTP/1.1" 200 -
+2025-08-16 20:37:30,937 - INFO - 127.0.0.1 - - [16/Aug/2025 20:37:30] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+2025-08-16 20:37:32,485 - INFO - 127.0.0.1 - - [16/Aug/2025 20:37:32] "GET /system_stats HTTP/1.1" 200 -
+2025-08-16 20:37:32,588 - INFO - 127.0.0.1 - - [16/Aug/2025 20:37:32] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+2025-08-16 21:25:44,743 - INFO -  * Detected change in 'C:\\Users\\DeLL\\Downloads\\AB\\UK Visa Applications and Services Chat Assistance\\test.py', reloading
+2025-08-16 21:25:47,670 - INFO -  * Restarting with stat
+2025-08-16 21:25:59,403 - INFO - Loading faiss with AVX2 support.
+2025-08-16 21:25:59,444 - INFO - Successfully loaded faiss with AVX2 support.
+2025-08-16 21:26:04,834 - WARNING -  * Debugger is active!
+2025-08-16 21:26:04,844 - INFO -  * Debugger PIN: 885-231-799
+2025-08-16 21:34:42,226 - INFO -  * Detected change in 'C:\\Users\\DeLL\\Downloads\\AB\\UK Visa Applications and Services Chat Assistance\\test.py', reloading
+2025-08-16 21:34:44,643 - INFO -  * Restarting with stat
+2025-08-16 21:34:57,017 - INFO - Loading faiss with AVX2 support.
+2025-08-16 21:34:57,047 - INFO - Successfully loaded faiss with AVX2 support.
+2025-08-16 21:35:05,980 - WARNING -  * Debugger is active!
+2025-08-16 21:35:05,983 - INFO -  * Debugger PIN: 885-231-799
+2025-08-16 21:42:47,196 - INFO -  * Detected change in 'C:\\Users\\DeLL\\Downloads\\AB\\UK Visa Applications and Services Chat Assistance\\test.py', reloading
+2025-08-16 21:42:49,557 - INFO -  * Restarting with stat
+2025-08-16 21:43:00,725 - INFO - Loading faiss with AVX2 support.
+2025-08-16 21:43:00,756 - INFO - Successfully loaded faiss with AVX2 support.
+2025-08-16 21:43:11,914 - WARNING -  * Debugger is active!
+2025-08-16 21:43:11,918 - INFO -  * Debugger PIN: 885-231-799
+2025-08-16 21:47:59,839 - INFO -  * Detected change in 'C:\\Users\\DeLL\\Downloads\\AB\\UK Visa Applications and Services Chat Assistance\\test.py', reloading
+2025-08-16 21:48:02,191 - INFO -  * Restarting with stat
+2025-08-16 21:48:12,615 - INFO - Loading faiss with AVX2 support.
+2025-08-16 21:48:12,833 - INFO - Successfully loaded faiss with AVX2 support.
+2025-08-16 21:48:20,233 - WARNING -  * Debugger is active!
+2025-08-16 21:48:20,236 - INFO -  * Debugger PIN: 885-231-799
+2025-08-16 21:52:22,242 - INFO -  * Detected change in 'C:\\Users\\DeLL\\Downloads\\AB\\UK Visa Applications and Services Chat Assistance\\test.py', reloading
+2025-08-16 21:52:24,575 - INFO -  * Restarting with stat
+2025-08-16 21:52:34,234 - INFO - Loading faiss with AVX2 support.
+2025-08-16 21:52:34,261 - INFO - Successfully loaded faiss with AVX2 support.
+2025-08-16 21:52:40,106 - WARNING -  * Debugger is active!
+2025-08-16 21:52:40,113 - INFO -  * Debugger PIN: 885-231-799
+2025-08-16 22:04:55,133 - INFO -  * Detected change in 'C:\\Users\\DeLL\\Downloads\\AB\\UK Visa Applications and Services Chat Assistance\\performance_test.py', reloading
+2025-08-16 22:04:57,454 - INFO -  * Restarting with stat
+2025-08-16 22:05:08,067 - INFO - Loading faiss with AVX2 support.
+2025-08-16 22:05:08,094 - INFO - Successfully loaded faiss with AVX2 support.
+2025-08-16 22:05:15,862 - WARNING -  * Debugger is active!
+2025-08-16 22:05:15,866 - INFO -  * Debugger PIN: 885-231-799
+2025-08-19 16:17:25,045 - INFO - Loading faiss with AVX2 support.
+2025-08-19 16:17:25,760 - INFO - Successfully loaded faiss with AVX2 support.
+2025-08-19 16:17:30,560 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://172.20.10.5:5000
+2025-08-19 16:17:30,563 - INFO - [33mPress CTRL+C to quit[0m
+2025-08-19 16:17:30,581 - INFO -  * Restarting with stat
+2025-08-19 16:17:47,603 - INFO - Loading faiss with AVX2 support.
+2025-08-19 16:17:50,209 - INFO - Successfully loaded faiss with AVX2 support.
+2025-08-19 16:17:54,494 - WARNING -  * Debugger is active!
+2025-08-19 16:17:54,527 - INFO -  * Debugger PIN: 260-173-730
+2025-08-19 16:18:17,732 - INFO - 127.0.0.1 - - [19/Aug/2025 16:18:17] "GET / HTTP/1.1" 200 -
+2025-08-19 16:18:18,810 - INFO - 127.0.0.1 - - [19/Aug/2025 16:18:18] "GET /static/css/style.css HTTP/1.1" 200 -
+2025-08-19 16:18:19,196 - INFO - 127.0.0.1 - - [19/Aug/2025 16:18:19] "GET /static/js/script.js HTTP/1.1" 200 -
+2025-08-19 16:20:33,911 - INFO - 127.0.0.1 - - [19/Aug/2025 16:20:33] "POST /quick_action HTTP/1.1" 200 -
+2025-08-19 16:22:23,874 - INFO - 127.0.0.1 - - [19/Aug/2025 16:22:23] "POST /chat HTTP/1.1" 200 -
+2025-08-19 16:30:08,977 - INFO - Loading faiss with AVX2 support.
+2025-08-19 16:30:09,543 - INFO - Successfully loaded faiss with AVX2 support.
+2025-08-19 16:30:13,613 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://172.20.10.5:5000
+2025-08-19 16:30:13,617 - INFO - [33mPress CTRL+C to quit[0m
+2025-08-19 16:30:13,640 - INFO -  * Restarting with stat
+2025-08-19 16:30:22,304 - INFO - Loading faiss with AVX2 support.
+2025-08-19 16:30:22,383 - INFO - Successfully loaded faiss with AVX2 support.
+2025-08-19 16:30:25,793 - WARNING -  * Debugger is active!
+2025-08-19 16:30:25,805 - INFO -  * Debugger PIN: 130-244-319
+2025-08-19 16:30:35,131 - INFO - 127.0.0.1 - - [19/Aug/2025 16:30:35] "GET / HTTP/1.1" 200 -
+2025-08-19 16:30:36,855 - INFO - 127.0.0.1 - - [19/Aug/2025 16:30:36] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+2025-08-19 16:30:37,055 - INFO - 127.0.0.1 - - [19/Aug/2025 16:30:37] "[36mGET /static/js/script.js HTTP/1.1[0m" 304 -
+2025-08-19 16:31:34,512 - INFO - Loading faiss with AVX2 support.
+2025-08-19 16:31:34,805 - INFO - Successfully loaded faiss with AVX2 support.
+2025-08-19 16:31:38,264 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://172.20.10.5:5000
+2025-08-19 16:31:38,271 - INFO - [33mPress CTRL+C to quit[0m
+2025-08-19 16:31:38,292 - INFO -  * Restarting with stat
+2025-08-19 16:31:47,249 - INFO - Loading faiss with AVX2 support.
+2025-08-19 16:31:47,340 - INFO - Successfully loaded faiss with AVX2 support.
+2025-08-19 16:31:50,831 - WARNING -  * Debugger is active!
+2025-08-19 16:31:50,840 - INFO -  * Debugger PIN: 130-244-319
+2025-08-19 16:32:03,239 - INFO - 127.0.0.1 - - [19/Aug/2025 16:32:03] "GET / HTTP/1.1" 200 -
+2025-08-19 16:32:03,986 - INFO - 127.0.0.1 - - [19/Aug/2025 16:32:03] "[36mGET /static/js/script.js HTTP/1.1[0m" 304 -
+2025-08-19 16:32:03,989 - INFO - 127.0.0.1 - - [19/Aug/2025 16:32:03] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+2025-08-19 16:32:16,390 - INFO - 127.0.0.1 - - [19/Aug/2025 16:32:16] "GET / HTTP/1.1" 200 -
+2025-08-19 16:32:16,649 - INFO - 127.0.0.1 - - [19/Aug/2025 16:32:16] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+2025-08-19 16:32:16,650 - INFO - 127.0.0.1 - - [19/Aug/2025 16:32:16] "[36mGET /static/js/script.js HTTP/1.1[0m" 304 -
+2025-08-19 16:33:57,022 - INFO - 127.0.0.1 - - [19/Aug/2025 16:33:57] "POST /quick_action HTTP/1.1" 200 -
+2025-08-19 16:34:33,096 - INFO - 127.0.0.1 - - [19/Aug/2025 16:34:33] "POST /chat HTTP/1.1" 200 -
+2025-08-19 16:35:01,703 - INFO - 127.0.0.1 - - [19/Aug/2025 16:35:01] "POST /chat HTTP/1.1" 200 -
+2025-08-19 16:36:37,932 - INFO - 127.0.0.1 - - [19/Aug/2025 16:36:37] "POST /chat HTTP/1.1" 200 -
+2025-08-19 16:38:49,456 - INFO - 127.0.0.1 - - [19/Aug/2025 16:38:49] "POST /chat HTTP/1.1" 200 -
+2025-08-19 16:39:18,300 - INFO - 127.0.0.1 - - [19/Aug/2025 16:39:18] "POST /chat HTTP/1.1" 200 -
+2025-08-19 16:41:00,529 - INFO - 127.0.0.1 - - [19/Aug/2025 16:41:00] "POST /chat HTTP/1.1" 200 -
+2025-08-19 16:41:48,814 - INFO - 127.0.0.1 - - [19/Aug/2025 16:41:48] "POST /quick_action HTTP/1.1" 200 -
+2025-08-19 16:42:46,461 - INFO - Loading faiss with AVX2 support.
+2025-08-19 16:42:46,767 - INFO - Successfully loaded faiss with AVX2 support.
+2025-08-19 16:42:51,561 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://172.20.10.5:5000
+2025-08-19 16:42:51,562 - INFO - [33mPress CTRL+C to quit[0m
+2025-08-19 16:42:51,566 - INFO -  * Restarting with stat
+2025-08-19 16:43:00,293 - INFO - Loading faiss with AVX2 support.
+2025-08-19 16:43:00,321 - INFO - Successfully loaded faiss with AVX2 support.
+2025-08-19 16:43:04,186 - WARNING -  * Debugger is active!
+2025-08-19 16:43:04,198 - INFO -  * Debugger PIN: 260-173-730
+2025-08-19 16:43:27,159 - INFO - 127.0.0.1 - - [19/Aug/2025 16:43:27] "GET / HTTP/1.1" 200 -
+2025-08-19 16:43:27,745 - INFO - 127.0.0.1 - - [19/Aug/2025 16:43:27] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+2025-08-19 16:43:27,746 - INFO - 127.0.0.1 - - [19/Aug/2025 16:43:27] "[36mGET /static/js/script.js HTTP/1.1[0m" 304 -
+2025-08-19 16:43:52,727 - INFO - 127.0.0.1 - - [19/Aug/2025 16:43:52] "POST /chat HTTP/1.1" 200 -
+2025-08-19 17:01:31,959 - INFO - 127.0.0.1 - - [19/Aug/2025 17:01:31] "POST /quick_action HTTP/1.1" 200 -
+2025-08-19 17:07:36,000 - INFO - 127.0.0.1 - - [19/Aug/2025 17:07:36] "POST /chat HTTP/1.1" 200 -
+2025-08-19 17:07:50,660 - INFO - 127.0.0.1 - - [19/Aug/2025 17:07:50] "POST /chat HTTP/1.1" 200 -
+2025-08-20 12:18:31,200 - INFO - Loading faiss with AVX2 support.
+2025-08-20 12:18:31,558 - INFO - Successfully loaded faiss with AVX2 support.
+2025-08-20 12:18:35,044 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://192.168.1.59:5000
+2025-08-20 12:18:35,045 - INFO - [33mPress CTRL+C to quit[0m
+2025-08-20 12:18:35,049 - INFO -  * Restarting with stat
+2025-08-20 12:18:47,777 - INFO - Loading faiss with AVX2 support.
+2025-08-20 12:18:47,837 - INFO - Successfully loaded faiss with AVX2 support.
+2025-08-20 12:18:50,969 - WARNING -  * Debugger is active!
+2025-08-20 12:18:50,984 - INFO -  * Debugger PIN: 260-173-730
+2025-08-20 12:18:58,845 - INFO - 127.0.0.1 - - [20/Aug/2025 12:18:58] "GET / HTTP/1.1" 200 -
+2025-08-20 12:18:59,465 - INFO - 127.0.0.1 - - [20/Aug/2025 12:18:59] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+2025-08-20 12:18:59,490 - INFO - 127.0.0.1 - - [20/Aug/2025 12:18:59] "[36mGET /static/js/script.js HTTP/1.1[0m" 304 -
+2025-08-20 12:19:10,479 - INFO - 127.0.0.1 - - [20/Aug/2025 12:19:10] "POST /quick_action HTTP/1.1" 200 -
+2025-08-20 12:19:23,716 - INFO - 127.0.0.1 - - [20/Aug/2025 12:19:23] "POST /chat HTTP/1.1" 200 -
+2025-08-20 12:19:52,332 - INFO - 127.0.0.1 - - [20/Aug/2025 12:19:52] "POST /chat HTTP/1.1" 200 -
+2025-08-20 12:20:12,783 - INFO - 127.0.0.1 - - [20/Aug/2025 12:20:12] "POST /chat HTTP/1.1" 200 -
+2025-08-20 12:20:50,303 - INFO - 127.0.0.1 - - [20/Aug/2025 12:20:50] "POST /chat HTTP/1.1" 200 -
+2025-08-22 08:37:58,072 - INFO - Loading faiss with AVX2 support.
+2025-08-22 08:37:58,706 - INFO - Successfully loaded faiss with AVX2 support.
+2025-08-22 08:38:02,658 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://172.20.10.5:5000
+2025-08-22 08:38:02,660 - INFO - [33mPress CTRL+C to quit[0m
+2025-08-22 08:38:02,687 - INFO -  * Restarting with stat
+2025-08-22 08:38:26,788 - INFO - Loading faiss with AVX2 support.
+2025-08-22 08:38:26,920 - INFO - Successfully loaded faiss with AVX2 support.
+2025-08-22 08:38:30,457 - WARNING -  * Debugger is active!
+2025-08-22 08:38:30,508 - INFO -  * Debugger PIN: 260-173-730
+2025-08-22 08:38:34,740 - INFO - 127.0.0.1 - - [22/Aug/2025 08:38:34] "GET / HTTP/1.1" 200 -
+2025-08-22 08:38:35,123 - INFO - 127.0.0.1 - - [22/Aug/2025 08:38:35] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+2025-08-22 08:38:35,161 - INFO - 127.0.0.1 - - [22/Aug/2025 08:38:35] "[36mGET /static/js/script.js HTTP/1.1[0m" 304 -
+2025-08-22 08:38:49,314 - INFO - 127.0.0.1 - - [22/Aug/2025 08:38:49] "POST /quick_action HTTP/1.1" 200 -
+2025-08-22 08:39:07,657 - INFO - 127.0.0.1 - - [22/Aug/2025 08:39:07] "POST /chat HTTP/1.1" 200 -
+2025-08-22 08:40:48,236 - INFO - 127.0.0.1 - - [22/Aug/2025 08:40:48] "POST /chat HTTP/1.1" 200 -
+2025-08-22 08:42:09,689 - INFO - 127.0.0.1 - - [22/Aug/2025 08:42:09] "POST /chat HTTP/1.1" 200 -
+2025-08-22 08:42:57,281 - INFO - 127.0.0.1 - - [22/Aug/2025 08:42:57] "POST /chat HTTP/1.1" 200 -
+2025-08-22 08:43:56,421 - INFO - 127.0.0.1 - - [22/Aug/2025 08:43:56] "POST /chat HTTP/1.1" 200 -
+2025-08-22 08:45:04,816 - INFO - 127.0.0.1 - - [22/Aug/2025 08:45:04] "POST /chat HTTP/1.1" 200 -
+2025-08-22 08:45:38,948 - INFO - 127.0.0.1 - - [22/Aug/2025 08:45:38] "POST /chat HTTP/1.1" 200 -
+2025-08-22 08:45:59,548 - INFO - 127.0.0.1 - - [22/Aug/2025 08:45:59] "POST /chat HTTP/1.1" 200 -
+2025-08-22 10:14:12,230 - INFO - 127.0.0.1 - - [22/Aug/2025 10:14:12] "POST /quick_action HTTP/1.1" 200 -
+2025-08-22 10:15:09,601 - INFO - Loading faiss with AVX2 support.
+2025-08-22 10:15:09,976 - INFO - Successfully loaded faiss with AVX2 support.
+2025-08-22 10:15:13,212 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://10.43.33.66:5000
+2025-08-22 10:15:13,214 - INFO - [33mPress CTRL+C to quit[0m
+2025-08-22 10:15:13,218 - INFO -  * Restarting with stat
+2025-08-22 10:15:25,461 - INFO - Loading faiss with AVX2 support.
+2025-08-22 10:15:25,522 - INFO - Successfully loaded faiss with AVX2 support.
+2025-08-22 10:15:28,692 - WARNING -  * Debugger is active!
+2025-08-22 10:15:28,707 - INFO -  * Debugger PIN: 260-173-730
+2025-08-22 10:15:29,759 - INFO - 127.0.0.1 - - [22/Aug/2025 10:15:29] "GET / HTTP/1.1" 200 -
+2025-08-22 10:15:30,200 - INFO - 127.0.0.1 - - [22/Aug/2025 10:15:30] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+2025-08-22 10:15:30,279 - INFO - 127.0.0.1 - - [22/Aug/2025 10:15:30] "[36mGET /static/js/script.js HTTP/1.1[0m" 304 -
+2025-08-22 10:16:02,113 - INFO - 127.0.0.1 - - [22/Aug/2025 10:16:02] "POST /quick_action HTTP/1.1" 200 -
+2025-08-22 10:16:02,344 - INFO - 127.0.0.1 - - [22/Aug/2025 10:16:02] "POST /quick_action HTTP/1.1" 200 -
+2025-08-22 10:16:32,972 - INFO - 127.0.0.1 - - [22/Aug/2025 10:16:32] "POST /chat HTTP/1.1" 200 -
+2025-08-22 10:17:42,825 - INFO - 127.0.0.1 - - [22/Aug/2025 10:17:42] "POST /quick_action HTTP/1.1" 200 -
+2025-08-22 10:17:49,017 - INFO - 127.0.0.1 - - [22/Aug/2025 10:17:49] "POST /quick_action HTTP/1.1" 200 -
+2025-08-22 10:31:45,626 - INFO - 127.0.0.1 - - [22/Aug/2025 10:31:45] "POST /chat HTTP/1.1" 200 -
+2025-08-22 10:36:06,431 - INFO - 127.0.0.1 - - [22/Aug/2025 10:36:06] "POST /quick_action HTTP/1.1" 200 -
+2025-08-22 11:07:54,435 - INFO - 127.0.0.1 - - [22/Aug/2025 11:07:54] "POST /chat HTTP/1.1" 200 -
+2025-08-22 11:08:02,250 - INFO - 127.0.0.1 - - [22/Aug/2025 11:08:02] "POST /quick_action HTTP/1.1" 200 -
+2025-08-22 11:08:02,711 - INFO - 127.0.0.1 - - [22/Aug/2025 11:08:02] "POST /quick_action HTTP/1.1" 200 -
+2025-08-22 11:08:12,961 - INFO - 127.0.0.1 - - [22/Aug/2025 11:08:12] "POST /chat HTTP/1.1" 200 -
+2025-08-22 11:38:07,124 - INFO - Loading faiss with AVX2 support.
+2025-08-22 11:38:09,233 - INFO - Successfully loaded faiss with AVX2 support.
+2025-08-22 11:38:14,634 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://10.43.33.66:5000
+2025-08-22 11:38:14,652 - INFO - [33mPress CTRL+C to quit[0m
+2025-08-22 11:38:14,718 - INFO -  * Restarting with stat
+2025-08-22 11:38:33,551 - INFO - Loading faiss with AVX2 support.
+2025-08-22 11:38:33,648 - INFO - Successfully loaded faiss with AVX2 support.
+2025-08-22 11:38:37,003 - WARNING -  * Debugger is active!
+2025-08-22 11:38:37,029 - INFO -  * Debugger PIN: 260-173-730
+2025-08-22 11:39:10,073 - INFO - 127.0.0.1 - - [22/Aug/2025 11:39:10] "GET / HTTP/1.1" 200 -
+2025-08-22 11:39:13,278 - INFO - 127.0.0.1 - - [22/Aug/2025 11:39:13] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+2025-08-22 11:39:14,772 - INFO - 127.0.0.1 - - [22/Aug/2025 11:39:14] "[36mGET /static/js/script.js HTTP/1.1[0m" 304 -
+2025-08-22 11:39:51,305 - INFO - 127.0.0.1 - - [22/Aug/2025 11:39:51] "POST /quick_action HTTP/1.1" 200 -
+2025-08-22 11:41:18,456 - INFO - 127.0.0.1 - - [22/Aug/2025 11:41:18] "POST /chat HTTP/1.1" 200 -
+2025-08-22 11:42:15,467 - INFO - 127.0.0.1 - - [22/Aug/2025 11:42:15] "POST /chat HTTP/1.1" 200 -
+2025-08-22 11:43:10,372 - INFO - 127.0.0.1 - - [22/Aug/2025 11:43:10] "POST /chat HTTP/1.1" 200 -
+2025-08-22 11:44:01,247 - INFO - 127.0.0.1 - - [22/Aug/2025 11:44:01] "POST /chat HTTP/1.1" 200 -
+2025-08-22 11:46:27,940 - INFO - 127.0.0.1 - - [22/Aug/2025 11:46:27] "POST /chat HTTP/1.1" 200 -
+2025-08-22 11:47:18,600 - INFO - 127.0.0.1 - - [22/Aug/2025 11:47:18] "POST /chat HTTP/1.1" 200 -
+2025-08-22 11:49:58,709 - INFO - 127.0.0.1 - - [22/Aug/2025 11:49:58] "POST /chat HTTP/1.1" 200 -
+2025-08-22 11:55:48,242 - INFO - 127.0.0.1 - - [22/Aug/2025 11:55:48] "POST /quick_action HTTP/1.1" 200 -
+2025-08-22 11:58:10,084 - INFO - 127.0.0.1 - - [22/Aug/2025 11:58:10] "POST /chat HTTP/1.1" 200 -
+2025-08-22 12:30:33,888 - INFO - 127.0.0.1 - - [22/Aug/2025 12:30:33] "POST /quick_action HTTP/1.1" 200 -
+2025-08-22 12:31:17,771 - INFO - 127.0.0.1 - - [22/Aug/2025 12:31:17] "POST /chat HTTP/1.1" 200 -
+2025-08-22 12:43:06,826 - INFO - 127.0.0.1 - - [22/Aug/2025 12:43:06] "POST /quick_action HTTP/1.1" 200 -
+2025-08-22 12:48:09,544 - INFO - 127.0.0.1 - - [22/Aug/2025 12:48:09] "POST /chat HTTP/1.1" 200 -
+2025-08-22 12:49:17,165 - INFO - Loading faiss with AVX2 support.
+2025-08-22 12:49:17,462 - INFO - Successfully loaded faiss with AVX2 support.
+2025-08-22 12:49:20,685 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://10.43.33.66:5000
+2025-08-22 12:49:20,688 - INFO - [33mPress CTRL+C to quit[0m
+2025-08-22 12:49:20,692 - INFO -  * Restarting with stat
+2025-08-22 12:49:31,948 - INFO - Loading faiss with AVX2 support.
+2025-08-22 12:49:32,030 - INFO - Successfully loaded faiss with AVX2 support.
+2025-08-22 12:49:35,344 - WARNING -  * Debugger is active!
+2025-08-22 12:49:35,366 - INFO -  * Debugger PIN: 260-173-730
+2025-08-22 12:49:41,416 - INFO - 127.0.0.1 - - [22/Aug/2025 12:49:41] "GET / HTTP/1.1" 200 -
+2025-08-22 12:49:41,859 - INFO - 127.0.0.1 - - [22/Aug/2025 12:49:41] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+2025-08-22 12:49:41,859 - INFO - 127.0.0.1 - - [22/Aug/2025 12:49:41] "[36mGET /static/js/script.js HTTP/1.1[0m" 304 -
+2025-08-22 12:49:52,795 - INFO - 127.0.0.1 - - [22/Aug/2025 12:49:52] "POST /quick_action HTTP/1.1" 200 -
+2025-08-22 12:49:57,085 - INFO - 127.0.0.1 - - [22/Aug/2025 12:49:57] "POST /quick_action HTTP/1.1" 200 -
+2025-08-22 13:33:28,312 - INFO - 127.0.0.1 - - [22/Aug/2025 13:33:28] "POST /chat HTTP/1.1" 200 -
+2025-08-22 13:33:42,476 - INFO - 127.0.0.1 - - [22/Aug/2025 13:33:42] "POST /quick_action HTTP/1.1" 200 -
+2025-08-22 14:30:16,437 - INFO - 127.0.0.1 - - [22/Aug/2025 14:30:16] "POST /quick_action HTTP/1.1" 200 -
+2025-08-22 14:30:30,726 - INFO - 127.0.0.1 - - [22/Aug/2025 14:30:30] "POST /chat HTTP/1.1" 200 -
+2025-08-22 14:48:44,889 - INFO - 127.0.0.1 - - [22/Aug/2025 14:48:44] "POST /chat HTTP/1.1" 200 -
+2025-08-22 15:16:11,412 - INFO - 127.0.0.1 - - [22/Aug/2025 15:16:11] "POST /quick_action HTTP/1.1" 200 -
+2025-08-22 15:53:38,032 - INFO - 127.0.0.1 - - [22/Aug/2025 15:53:38] "POST /chat HTTP/1.1" 200 -
+2025-08-22 16:18:59,774 - INFO - 127.0.0.1 - - [22/Aug/2025 16:18:59] "POST /quick_action HTTP/1.1" 200 -
+2025-09-06 08:34:50,752 - INFO - Loading faiss with AVX2 support.
+2025-09-06 08:34:53,021 - INFO - Successfully loaded faiss with AVX2 support.
+2025-09-06 08:35:05,123 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://192.168.1.59:5000
+2025-09-06 08:35:05,124 - INFO - [33mPress CTRL+C to quit[0m
+2025-09-06 08:35:05,177 - INFO -  * Restarting with stat
+2025-09-06 08:35:57,548 - INFO - Loading faiss with AVX2 support.
+2025-09-06 08:36:02,802 - INFO - Successfully loaded faiss with AVX2 support.
+2025-09-06 08:36:07,555 - WARNING -  * Debugger is active!
+2025-09-06 08:36:07,820 - INFO -  * Debugger PIN: 260-173-730
+2025-09-06 08:38:42,084 - INFO - 127.0.0.1 - - [06/Sep/2025 08:38:42] "GET / HTTP/1.1" 200 -
+2025-09-06 08:38:42,996 - INFO - 127.0.0.1 - - [06/Sep/2025 08:38:42] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+2025-09-06 08:38:44,050 - INFO - 127.0.0.1 - - [06/Sep/2025 08:38:44] "[36mGET /static/js/script.js HTTP/1.1[0m" 304 -
+2025-10-14 20:23:28,138 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://192.168.1.59:5000
+2025-10-14 20:23:28,141 - INFO - [33mPress CTRL+C to quit[0m
+2025-10-14 20:23:28,158 - INFO -  * Restarting with stat
+2025-10-14 20:23:36,711 - WARNING -  * Debugger is active!
+2025-10-14 20:23:36,723 - INFO -  * Debugger PIN: 260-173-730
+2025-10-14 20:23:50,914 - INFO - 127.0.0.1 - - [14/Oct/2025 20:23:50] "GET / HTTP/1.1" 200 -
+2025-10-14 20:23:51,126 - INFO - 127.0.0.1 - - [14/Oct/2025 20:23:51] "GET /health HTTP/1.1" 200 -
+2025-10-14 20:23:51,181 - INFO - 127.0.0.1 - - [14/Oct/2025 20:23:51] "GET / HTTP/1.1" 200 -
+2025-10-14 20:23:51,647 - INFO - 127.0.0.1 - - [14/Oct/2025 20:23:51] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+2025-10-14 20:23:51,670 - INFO - 127.0.0.1 - - [14/Oct/2025 20:23:51] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+2025-10-14 20:23:52,542 - INFO - 127.0.0.1 - - [14/Oct/2025 20:23:52] "[36mGET /static/js/script.js HTTP/1.1[0m" 304 -
+2025-10-14 20:23:52,558 - INFO - 127.0.0.1 - - [14/Oct/2025 20:23:52] "[36mGET /static/js/script.js HTTP/1.1[0m" 304 -
+2025-10-14 20:23:53,713 - INFO - 127.0.0.1 - - [14/Oct/2025 20:23:53] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+2025-10-14 20:24:06,342 - INFO - 127.0.0.1 - - [14/Oct/2025 20:24:06] "POST /quick_action HTTP/1.1" 200 -
+2025-10-14 20:24:26,973 - INFO - 127.0.0.1 - - [14/Oct/2025 20:24:26] "POST /chat HTTP/1.1" 200 -
+2025-10-14 20:24:45,659 - INFO - 127.0.0.1 - - [14/Oct/2025 20:24:45] "POST /chat HTTP/1.1" 200 -
+2025-10-14 20:24:52,122 - INFO - 127.0.0.1 - - [14/Oct/2025 20:24:52] "POST /quick_action HTTP/1.1" 200 -
+2025-10-14 20:24:58,814 - INFO - 127.0.0.1 - - [14/Oct/2025 20:24:58] "POST /quick_action HTTP/1.1" 200 -
+2025-10-14 20:25:14,299 - INFO - 127.0.0.1 - - [14/Oct/2025 20:25:14] "GET / HTTP/1.1" 200 -
+2025-10-14 20:25:14,488 - INFO - 127.0.0.1 - - [14/Oct/2025 20:25:14] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+2025-10-14 20:25:14,586 - INFO - 127.0.0.1 - - [14/Oct/2025 20:25:14] "[36mGET /static/js/script.js HTTP/1.1[0m" 304 -
+2025-10-14 20:25:25,179 - INFO - 127.0.0.1 - - [14/Oct/2025 20:25:25] "POST /chat HTTP/1.1" 200 -
+2025-10-14 20:25:48,719 - INFO - 127.0.0.1 - - [14/Oct/2025 20:25:48] "POST /chat HTTP/1.1" 200 -
+2025-10-14 20:26:23,408 - INFO - 127.0.0.1 - - [14/Oct/2025 20:26:23] "POST /chat HTTP/1.1" 200 -
+2025-10-14 20:30:51,388 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://192.168.1.59:5000
+2025-10-14 20:30:51,390 - INFO - [33mPress CTRL+C to quit[0m
+2025-10-14 20:30:51,394 - INFO -  * Restarting with stat
+2025-10-14 20:31:00,381 - WARNING -  * Debugger is active!
+2025-10-14 20:31:00,392 - INFO -  * Debugger PIN: 260-173-730
+2025-10-14 20:31:14,272 - INFO - 127.0.0.1 - - [14/Oct/2025 20:31:14] "GET / HTTP/1.1" 200 -
+2025-10-14 20:31:14,998 - INFO - 127.0.0.1 - - [14/Oct/2025 20:31:14] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+2025-10-14 20:31:14,998 - INFO - 127.0.0.1 - - [14/Oct/2025 20:31:14] "[36mGET /static/js/script.js HTTP/1.1[0m" 304 -
+2025-10-14 20:31:30,107 - INFO - 127.0.0.1 - - [14/Oct/2025 20:31:30] "POST /chat HTTP/1.1" 200 -
+2025-10-14 20:31:55,465 - INFO - 127.0.0.1 - - [14/Oct/2025 20:31:55] "POST /chat HTTP/1.1" 200 -
+2025-10-14 20:32:19,667 - INFO - 127.0.0.1 - - [14/Oct/2025 20:32:19] "POST /chat HTTP/1.1" 200 -
+2025-10-14 20:32:35,674 - INFO - 127.0.0.1 - - [14/Oct/2025 20:32:35] "POST /quick_action HTTP/1.1" 200 -
+2025-10-14 20:32:39,173 - INFO - 127.0.0.1 - - [14/Oct/2025 20:32:39] "POST /quick_action HTTP/1.1" 200 -
+2025-10-14 20:33:00,529 - INFO - 127.0.0.1 - - [14/Oct/2025 20:33:00] "POST /chat HTTP/1.1" 200 -
+2025-10-14 20:34:24,507 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://192.168.1.59:5000
+2025-10-14 20:34:24,509 - INFO - [33mPress CTRL+C to quit[0m
+2025-10-14 20:34:24,536 - INFO -  * Restarting with stat
+2025-10-14 20:34:34,443 - WARNING -  * Debugger is active!
+2025-10-14 20:34:34,453 - INFO -  * Debugger PIN: 417-724-568
+2025-10-14 20:38:10,975 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://192.168.1.59:5000
+2025-10-14 20:38:10,978 - INFO - [33mPress CTRL+C to quit[0m
+2025-10-14 20:38:10,986 - INFO -  * Restarting with stat
+2025-10-14 20:38:18,961 - WARNING -  * Debugger is active!
+2025-10-14 20:38:18,973 - INFO -  * Debugger PIN: 260-173-730
+2025-10-14 20:42:04,828 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://192.168.1.59:5000
+2025-10-14 20:42:04,829 - INFO - [33mPress CTRL+C to quit[0m
+2025-10-14 20:42:04,837 - INFO -  * Restarting with stat
+2025-10-14 20:42:12,689 - WARNING -  * Debugger is active!
+2025-10-14 20:42:12,693 - INFO -  * Debugger PIN: 260-173-730
+2025-10-14 20:47:46,012 - INFO - 127.0.0.1 - - [14/Oct/2025 20:47:46] "GET / HTTP/1.1" 200 -
+2025-10-14 20:47:46,230 - INFO - 127.0.0.1 - - [14/Oct/2025 20:47:46] "[36mGET /static/js/script.js HTTP/1.1[0m" 304 -
+2025-10-14 20:47:46,231 - INFO - 127.0.0.1 - - [14/Oct/2025 20:47:46] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+2025-10-14 20:48:03,427 - INFO - 127.0.0.1 - - [14/Oct/2025 20:48:03] "POST /chat HTTP/1.1" 200 -
