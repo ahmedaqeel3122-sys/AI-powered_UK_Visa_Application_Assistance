@@ -85,7 +85,7 @@ chatbot/
 | Documents processed | 105 (26,570 words) |
 | Average response time | < 1 second |
 | Ranked accuracy | 95% |
-| Functional tests | 15 successful query tests |
+| Functional tests | 115 successful query tests |
 
 ---
 
